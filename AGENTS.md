@@ -30,6 +30,7 @@
 
 ### For Python
 - Type indication is mandatory for front-facing public APIs and very core application-agnostic functions. For functions merely orchestrating, no type indication is to be used.
+- All imports should be at the top
 
 ## For documentation
 
